@@ -1,7 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Roman Bondarchuk</h1>
-<h3 align="center">I'm study Front End</h3>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Git, HTML, CSS, JS**
